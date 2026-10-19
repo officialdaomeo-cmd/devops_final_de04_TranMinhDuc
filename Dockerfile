@@ -37,3 +37,4 @@ EXPOSE 8082
 
 # ENTRYPOINT dạng exec (mảng JSON)
 ENTRYPOINT ["java", "-jar", "app.jar"]
+103.72.57.95
